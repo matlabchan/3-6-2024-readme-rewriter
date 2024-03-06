@@ -1,7 +1,7 @@
 <a href="/img/light_openMINDS-MATLAB-logo.png">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/dark_openMINDS-MATLAB-logo.png">
-    <source media="(prefers-color-scheme: light)" srcset="/img/light_openMINDS-MATLAB-logo.png">
+    <source media="(prefers-color-scheme: dark)" src="/img/dark_openMINDS-MATLAB-logo.png">
+    <source media="(prefers-color-scheme: light)" src="/img/light_openMINDS-MATLAB-logo.png">
     <img alt="openMINDS MATLAB logo" src="/img/light_openMINDS-MATLAB-logo.png" title="openMINDS MATLAB" align="right" height="70">
   </picture>
 </a>
